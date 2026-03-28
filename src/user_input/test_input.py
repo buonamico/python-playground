@@ -15,3 +15,5 @@ def user_input():
 
 	# Printing a message based on the input.
 	print(f"Welcome, {user_input}!")
+
+user_input()
